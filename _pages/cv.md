@@ -29,21 +29,15 @@ B Nadel, D Lopez, D Montoya, H Waddel, M Khan, and M Pellegrini. “Gene Express
 Research Grants
 ======
 * “The Community Ecology of the Music Canon”, 2018, Independent Research Experience Undergraduate Grant ($1,000), University of Utah Mathematics Department
-
 * “The Community Ecology of the Music Canon”, 2017, Independent Research Experience Undergraduate Grant ($2,000), University of Utah Mathematics Department
-
 * “Transcription Factor Interactions in Developing Hair Cells”, 2016, ORCA Undergraduate Student Mentoring Grant ($1,500), Brigham Young University Office of Research and Creative Activities
-
 * “Sensory Integration in Zebrafish Larvae”, 2015, ORCA Undergraduate Student Mentoring Grant ($1,500), Brigham Young University Office of Research and Creative Activities
 
 Presentations
 ======
 * Poster, “The Community Ecology of the Music Canon”, National Conference on Undergraduate Research, 2018
-
 * Poster, “The Community Ecology of the Music Canon”, Utah Conference of Undergraduate Research, 2018
-
 * Poster, “Evaluating the Efficiency of Single-Cell Data in Cell-Type Deconvolution”, Bruins in Genomics Summer Research Experience, 2017
-
 * Poster, “Transcription Factor Interactions in Developing Hair Cells”, Utah Conference of Undergraduate Research, 2016
 
 
@@ -54,16 +48,14 @@ Work experience
   
 Teaching
 ======
-Instructor, Statistical Methods I Lab (BIOS 500L); Fall 2020
-Teaching Assistant, Biostatistical Methods II (BIOS 591P); Spring 2020
-Teaching Assistant, Statistical Methods I Lab (BIOS 500L); Fall 2019
+* Instructor, Statistical Methods I Lab (BIOS 500L); Fall 2020
+* Teaching Assistant, Biostatistical Methods II (BIOS 591P); Spring 2020
+* Teaching Assistant, Statistical Methods I Lab (BIOS 500L); Fall 2019
 
 Service and leadership
 ======
 * National Institute of Statistical Sciences (NISS) Graduate Student Network planning committee, June 2020-Present
-
 * Emory Biostatistics Department Student Council Representative, September 2019-Present
-
 * Georgia Department of Public Health COVID-19 Geospatial support, May 2020-Present
 
 
