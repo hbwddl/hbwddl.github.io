@@ -24,7 +24,7 @@ Publications
 ======
 O Sadan, H Waddel, R Moore, C Feng, Y Mei, D Pearce, J Kraft, C Pimentel, S Mathew, F Akbik, P Ameli, A Taylor, L Danyluk, K Martin, K Garner, J Kolenda, A Pujari, W Asbury, V Jaja, R L Macdonald, M Cawley, D Barrow, and O Samuels. “Intrathecal Nicardipine for Cerebral Vasospasm Post Subarachnoid Hemorrhage–a Retrospective Propensity-Based Analysis” (Submitted, 2020) [Pre-print](https://www.medrxiv.org/content/10.1101/2020.08.31.20185181v2)
  
-B Nadel, D Lopez, D Montoya, H Waddel, M Khan, and M Pellegrini. “Gene Expression Deconvolution Interactive Tool (GEDIT): Accurate Cell Type Quantification from Gene Expression Data” (Pending revision, GigaScience, 2020) [Pre-print](https://www.biorxiv.org/content/10.1101/728493v2.abstract)
+B Nadel, D Lopez, D Montoya, H Waddel, M Khan, and M Pellegrini. “Gene Expression Deconvolution Interactive Tool (GEDIT): Accurate Cell Type Quantification from Gene Expression Data” (Pending revision, GigaScience, 2020) [Pre-print](https://www.biorxiv.org/content/10.1101/728493v4)
 
 Research Grants
 ======
