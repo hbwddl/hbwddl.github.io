@@ -1,10 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: "Fun Projects"
-excerpt: "Fun Projects"
+permalink: /projects/
 author_profile: true
 redirect_from: 
-  - /projects/
   - /projects.html
 ---
 
