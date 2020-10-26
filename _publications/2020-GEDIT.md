@@ -2,6 +2,7 @@
 title: "The Gene Expression Deconvolution Interactive Tool (GEDIT): Accurate Cell Type Quantification from Gene Expression Data (pre-print)"
 collection: publications/2020-GEDIT
 venue: 
+date: 10-25-2020
 paperurl: 'https://www.biorxiv.org/content/10.1101/728493v4'
 ---
 
