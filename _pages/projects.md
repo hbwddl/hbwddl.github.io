@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-These are some fun projects I have made.
+[Picross in RShiny](https://hbwaddel.shinyapps.io/Picross/) [Github repository](https://github.com/hbwddl/rshiny-picross)
