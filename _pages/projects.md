@@ -9,4 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Picross in RShiny](https://hbwaddel.shinyapps.io/Picross/) [Github repository](https://github.com/hbwddl/rshiny-picross)
+Picross
+======
+I enjoy coding small games in my free time. To teach myself RShiny, I created a version of my favorite puzzle game, Picross.
+
+[Picross in RShiny](https://hbwaddel.shinyapps.io/Picross/)        [Github repository](https://github.com/hbwddl/rshiny-picross)
