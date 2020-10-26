@@ -1,1 +1,9 @@
-https://www.biorxiv.org/content/10.1101/728493v4
+---
+title: "The Gene Expression Deconvolution Interactive Tool (GEDIT): Accurate Cell Type Quantification from Gene Expression Data (pre-print)"
+collection: publications/2020-GEDIT
+date: 
+venue: 
+paperurl: 'https://www.biorxiv.org/content/10.1101/728493v4'
+---
+
+Done for the Bruins in Genomics summer research experience.
