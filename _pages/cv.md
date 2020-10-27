@@ -102,7 +102,7 @@ Relevant Coursework
 * SAS Programming
 * Biostatistical Methods I
 
-#### Undergraduate
+### Undergraduate
 
 * Time Series Analysis
 * Statistical Inference I and II
