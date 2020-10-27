@@ -22,4 +22,4 @@ Current Projects
 
 * Network meta-analysis of a stroke treatment as part of the Biostatistics Collaboration Core
 
-* Movement modeling and spatial risk mapping project
+* Movement modeling and spatial risk mapping project with Lance Waller
