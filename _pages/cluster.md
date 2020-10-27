@@ -12,7 +12,7 @@ redirect_from:
 The Little Cluster that Could
 ======
 
-<img src="https://github.com/hbwddl/hbwddl.github.io/blob/master/images/cluster.jpg" height="400" width="300">
+<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/cluster.jpg" height="400" width="300">
 
 
 The Idea
