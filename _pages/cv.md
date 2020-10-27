@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-=====
+======
 * PhD student in Biostatistics; Emory University; Atlanta, GA; August 2018-Present
 * B.S. in Mathematics; University of Utah; Salt Lake City, UT; May 2018
 
