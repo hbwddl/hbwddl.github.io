@@ -11,6 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+Publications
+======
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Current Projects
+======
+
+* Network meta-analysis of a stroke treatment as part of the Biostatistics Collaboration Core
+
+* Movement modeling and spatial risk mapping project
