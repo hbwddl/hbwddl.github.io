@@ -14,7 +14,6 @@ The Little Cluster that Could
 
 <img src="https://github.com/hbwddl/hbwddl.github.io/blob/master/images/cluster.jpg" height="400" width="300">
 
-My little cluster, hanging out in my cabinet.
 
 The Idea
 ------
