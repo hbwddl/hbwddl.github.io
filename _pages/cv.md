@@ -53,7 +53,7 @@ Teaching
 * Teaching Assistant, Statistical Methods I Lab (BIOS 500L); Fall 2019
 
 Service and leadership
-======
+------
 * National Institute of Statistical Sciences (NISS) Graduate Student Network planning committee, June 2020-Present
 * Emory Biostatistics Department Student Council Representative, September 2019-Present
 * Georgia Department of Public Health COVID-19 Geospatial support, May 2020-Present
