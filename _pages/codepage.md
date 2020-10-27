@@ -15,3 +15,7 @@ For some of my movement modeling work, I wanted a quick way to generate a 2d spa
 
 [Density Generator in RShiny](hbwaddel.shinyapps.io/GenerateDensity) : 
 [Github Repository](https://github.com/hbwddl/spatial-density-generator)
+
+Applied Spatial Statistics for Public Health Data
+======
+Found on my [github](https://github.com/hbwddl/Bios-737-Applied-Spatial-2019). This repository contains my code for the course Bios 737, which I took in Fall 2019. The course primarily focused on spatial point processes.
