@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Code"
-permalink: /code/
+permalink: /codepage/
 author_profile: true
 redirect_from:
-  - /code
+  - /codepage
 ---
 
 {% include base_path %}
