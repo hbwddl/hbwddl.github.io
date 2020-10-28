@@ -69,7 +69,7 @@ Materials + Costs
     * Ubuntu 20.04
     
 * HP Compaq 8000 Elite SFF
-    * $42, Ebay ($16 shipping)
+    * \$42, Ebay (\$16 shipping)
     * $25, 128 GB Samsung EVO ssd, Newegg
     * 8gb RAM, 4 cores
     * Debian Jessie (working on it! Kept getting a kernel panic when I attempted to install Ubuntu)
