@@ -49,7 +49,7 @@ Work experience
 Teaching
 ------
 * Instructor, Statistical Methods I Lab (BIOS 500L); Fall 2020
-* Teaching Assistant, Biostatistical Methods II (BIOS 591P); Spring 2020
+* Teaching Assistant, Biostatistical Methods II (BIOS 591P); Spring 2020 and Spring 2021
 * Teaching Assistant, Statistical Methods I Lab (BIOS 500L); Fall 2019
 
 Service and leadership
