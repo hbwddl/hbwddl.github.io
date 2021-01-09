@@ -13,13 +13,13 @@ Picross
 ------
 I enjoy coding small games in my free time. To teach myself RShiny, I created a version of my favorite puzzle game, Picross.
 
-[Picross in RShiny](https://hbwaddel.shinyapps.io/Picross/) : [Github repository](https://github.com/hbwddl/rshiny-picross)
+[App hosted on Shinyapps](https://hbwaddel.shinyapps.io/Picross/) : [Github repository](https://github.com/hbwddl/rshiny-picross)
 
 Shut the Box
 ------
 This is another small game I coded in Rshiny. It's a one-player dice game.
 
-[Shut the Box](https://hbwaddel.shinyapps.io/Shut-the-Box/) : [Github repository](https://github.com/hbwddl/Shut-the-Box)
+[App hosted on Shinyapps](https://hbwaddel.shinyapps.io/Shut-the-Box/) : [Github repository](https://github.com/hbwddl/Shut-the-Box)
 
 [My Cluster](https://hbwddl.github.io/projects/cluster/)
 ------
