@@ -15,6 +15,12 @@ I enjoy coding small games in my free time. To teach myself RShiny, I created a 
 
 [Picross in RShiny](https://hbwaddel.shinyapps.io/Picross/) : [Github repository](https://github.com/hbwddl/rshiny-picross)
 
+Shut the Box
+------
+This is another small game I coded in Rshiny. It's a one-player dice game.
+
+[Shut the Box](https://hbwaddel.shinyapps.io/Shut-the-Box/) : [Github repository](https://github.com/hbwddl/Shut-the-Box)
+
 [My Cluster](https://hbwddl.github.io/projects/cluster/)
 ------
 As one of my hobbies, I've constructed a personal cluster using some old hardware. I'm able to run MPI and Spark on it. Now that it's all set up, I'm learning how to use Spark for Machine Learning workflows.
