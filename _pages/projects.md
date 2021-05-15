@@ -25,7 +25,7 @@ Pokemon Type Checking Utility
 ------
 I've enjoyed playing Pokémon for a long time. I put together a utility where you can check Pokémon "type" effectiveness in Rshiny.
 
-[App hosted on Shinyapps](https://hbwaddel.shinyapps.io/typechecker/) : [Github repository]()
+[App hosted on Shinyapps](https://hbwaddel.shinyapps.io/typechecker/) : [Github repository](https://github.com/hbwddl/PokemonTypeChecker)
 
 [My Cluster](https://hbwddl.github.io/projects/cluster/)
 ------
