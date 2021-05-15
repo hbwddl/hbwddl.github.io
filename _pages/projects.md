@@ -21,6 +21,12 @@ This is another small game I coded in Rshiny. It's a one-player dice game.
 
 [App hosted on Shinyapps](https://hbwaddel.shinyapps.io/Shut-the-Box/) : [Github repository](https://github.com/hbwddl/Shut-the-Box)
 
+Pokemon Type Checking Utility
+------
+I've enjoyed playing Pokémon for a long time. I put together a utility where you can check Pokémon "type" effectiveness in Rshiny.
+
+[App hosted on Shinyapps](https://hbwaddel.shinyapps.io/typechecker/) : [Github repository]()
+
 [My Cluster](https://hbwddl.github.io/projects/cluster/)
 ------
 As one of my hobbies, I've constructed a personal cluster using some old hardware. I'm able to run MPI and Spark on it. Now that it's all set up, I'm learning how to use Spark for Machine Learning workflows.
