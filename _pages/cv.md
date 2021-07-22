@@ -22,7 +22,7 @@ Research
  
 Publications
 ------
-F Akbik, H Waddel, B. Jaja, R Macdonald, R Moore, O Samuels, O Sadan. "Nicardipine Prolonged Release Implants For Prevention of Delayed Cerebral Ischemia After Aneurysmal Subarachnoid Hemorrhage: A meta-analysis" (Accepted, Journal of Stroke and Cerebrovascular Diseases, 2021)
+F Akbik, H Waddel, B Jaja, R Macdonald, R Moore, O Samuels, O Sadan. "Nicardipine Prolonged Release Implants For Prevention of Delayed Cerebral Ischemia After Aneurysmal Subarachnoid Hemorrhage: A meta-analysis" (Accepted, Journal of Stroke and Cerebrovascular Diseases, 2021)
 
 O Sadan, H Waddel, R Moore, C Feng, Y Mei, D Pearce, J Kraft, C Pimentel, S Mathew, F Akbik, P Ameli, A Taylor, L Danyluk, K Martin, K Garner, J Kolenda, A Pujari, W Asbury, V Jaja, R L Macdonald, M Cawley, D Barrow, and O Samuels. “Intrathecal Nicardipine for Cerebral Vasospasm Post Subarachnoid Hemorrhage–a Retrospective Propensity-Based Analysis” (Accepted, Journal of Neurosurgery, 2020) [Pre-print](https://www.medrxiv.org/content/10.1101/2020.08.31.20185181v2)
  
