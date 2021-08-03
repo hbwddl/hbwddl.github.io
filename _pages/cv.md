@@ -79,6 +79,12 @@ Relevant Coursework
 
 ### Graduate
 
+#### Spring 2021
+
+* Statistical Inference II
+* Generalized Linear Models
+* Applied Bayesian Models
+
 #### Fall 2020
 
 * Probability Theory II
