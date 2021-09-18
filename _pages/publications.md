@@ -20,11 +20,11 @@ Publications
 Current Projects
 ------
 
-* Phylodynamic modeling with Max Lau of an outbreak of influenza in swine
+* Phylodynamic modeling with Max Lau
 
 * Movement modeling and spatial risk mapping project with Lance Waller
 
-* Biostatistics Consulting Core project conducting a meta-analysis of food fortification's effect on anemia
+* Biostatistics Consulting Core project conducting a meta-analysis of food fortification's and micronutrient supplements' effect on anemia
 
 Other Projects
 ------
