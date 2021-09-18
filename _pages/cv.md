@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](https://github.com/hbwddl/hbwddl.github.io/blob/master/files/CV_20210917.pdf)
+
 Education
 ------
 * PhD student in Biostatistics; Emory University; Atlanta, GA; August 2018-Present
