@@ -13,8 +13,9 @@ redirect_from:
 
 Education
 ------
-* PhD student in Biostatistics; Emory University; Atlanta, GA; August 2018-Present
-* B.S. in Mathematics; University of Utah; Salt Lake City, UT; May 2018
+* Ph.D in Biostatistics; Emory University; Atlanta, GA; 2018-Present
+* M.S. in Biostatistics; Emory University; Atlanta, GA; 2021
+* B.S. in Mathematics; University of Utah; Salt Lake City, UT; 2018
 
 Research
 ------
@@ -80,6 +81,10 @@ Relevant Coursework
 ------
 
 ### Graduate
+
+#### Fall 2021
+
+* Modern Regression Analysis
 
 #### Spring 2021
 
