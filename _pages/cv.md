@@ -54,14 +54,15 @@ Work experience
 Teaching
 ------
 * Instructor, Statistical Methods I Lab (BIOS 500L); Fall 2020
-* Teaching Assistant, Biostatistical Methods II (BIOS 591P); Spring 2020 and Spring 2021
+* Teaching Assistant, Biostatistical Methods II (BIOS 591P); Spring 2020, Spring 2021, Spring 2022
 * Teaching Assistant, Statistical Methods I Lab (BIOS 500L); Fall 2019
 
 Service and leadership
 ------
 * National Institute of Statistical Sciences (NISS) Graduate Student Network planning committee, June 2020-Present
 * Emory Biostatistics Department Student Council Representative, September 2019-Present
-* Georgia Department of Public Health COVID-19 Geospatial support, May 2020-Present
+* Georgia Department of Public Health COVID-19 Geospatial support, May-August 2020
+* Computer Museum of America archives volunteer, October 2021-Present
 
 
 Honors and Awards
