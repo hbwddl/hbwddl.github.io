@@ -27,6 +27,10 @@ I've enjoyed playing Pokémon for a long time. I put together a utility where yo
 
 [App hosted on Shinyapps](https://hbwaddel.shinyapps.io/typechecker/) : [Github repository](https://github.com/hbwddl/PokemonTypeChecker)
 
+woRdle()
+------
+Keeping up with the early 2022 zeitgeist by making a wordle clone in R: https://github.com/hbwddl/woRdle 
+
 [My Cluster](https://hbwddl.github.io/projects/cluster/)
 ------
 As one of my hobbies, I've constructed a personal cluster using some old hardware. I'm able to run MPI and Spark on it. Now that it's all set up, I'm learning how to use Spark for Machine Learning workflows.
