@@ -29,7 +29,7 @@ I've enjoyed playing Pokémon for a long time. I put together a utility where yo
 
 woRdle()
 ------
-Keeping up with the early 2022 zeitgeist by making a wordle clone in R: https://github.com/hbwddl/woRdle 
+Keeping up with the early 2022 zeitgeist by making a wordle clone in R: [Github repository](https://github.com/hbwddl/woRdle)
 
 [My Cluster](https://hbwddl.github.io/projects/cluster/)
 ------
