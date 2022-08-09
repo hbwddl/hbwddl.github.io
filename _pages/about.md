@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD student in the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at Emory University. My faculty advisor is Max Lau. I am interested in statistical modeling, infectious disease, statistical consulting, and other collaborative projects.
+I'm a fourth-year PhD student in the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at Emory University. My faculty advisor is Max Lau. I am interested in statistical modeling, infectious disease, computing, statistical consulting, and other collaborative projects.
