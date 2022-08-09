@@ -11,7 +11,7 @@ redirect_from:
 
 SEIR Simulation
 ------
-This is a simulation of an SEIR (Susceptible-Exposed-Infected-Recovered) model using Gillespie's algorithm for simulating Markov processes and [Sellke's threshold](https://www.jstor.org/stable/3213811?seq=1#metadata_info_tab_contents) for modeling the exposure threshold.
+This is a simulation of an SEIR (Susceptible-Exposed-Infected-Recovered) model using Gillespie's algorithm for simulating continuous-time Markov processes and [Sellke's threshold](https://www.jstor.org/stable/3213811?seq=1#metadata_info_tab_contents) for modeling the exposure threshold.
 
 [SEIR simulation in Rshiny](https://hbwaddel.shinyapps.io/seir_sellke_threshold/) : 
 [Github Repository for Infectious Disease/Phylodynamics Simulations](https://github.com/hbwddl/Phylodynamics_Simulations)
