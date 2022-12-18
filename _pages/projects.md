@@ -31,6 +31,6 @@ woRdle()
 ------
 Keeping up with the early 2022 zeitgeist by making a wordle clone in R: [Github repository](https://github.com/hbwddl/woRdle)
 
-[My Cluster](https://hbwddl.github.io/projects/cluster/)
-------
-As one of my hobbies, I've constructed a personal cluster using some old hardware. I'm able to run MPI and Spark on it. Now that it's all set up, I'm learning how to use Spark for Machine Learning workflows.
+{% for post in site.posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
