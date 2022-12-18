@@ -31,6 +31,4 @@ woRdle()
 ------
 Keeping up with the early 2022 zeitgeist by making a wordle clone in R: [Github repository](https://github.com/hbwddl/woRdle)
 
-{% for post in site.posts reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[My Cluster](https://hbwddl.github.io/projects/cluster/)
