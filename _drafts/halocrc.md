@@ -16,7 +16,7 @@ Over the course of 16 matches (and I continue to collect data!), I logged the da
 
 Here's a sample of what the data looked like:
 
-<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/Screen Shot 2022-12-18 at 4.54.36 PM.png" height="350" width="350">
+<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/Screen Shot 2022-12-18 at 4.54.36 PM.png" height="350" width="450">
 
 
 A Simple Bayesian Capture-Recapture model
