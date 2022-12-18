@@ -1,8 +1,7 @@
 ---
-title: "Beowulf Cluster"
-permalink: /posts/2022/12/cluster/
-tags:
-  - fun projects
+title: "Personal Beowulf Cluster"
+excerpt: "Building a small HPC cluster to practice MPI and Spark for machine learning"
+collection: portfolio
 ---
 
 {% include base_path %}
