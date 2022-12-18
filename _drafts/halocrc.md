@@ -1,5 +1,5 @@
 ---
-title: 'Capture-recapture models with Halo: Infinite online'
+title: 'Capture-recapture models for Halo: Infinite online'
 date: 2022-12-18
 permalink: /posts/2022/12/halo-crc/
 tags:
@@ -12,3 +12,10 @@ This little project arose because my partner plays online matches of Halo: Infin
 
 For each match, a player is paired with 15 others to form two teams of 8 people. Each player has a persistent player username, so they can be tracked between matches. Though I do not know the exact details of how players are paired, I treat each match as a "sample" of 15 other players then.
 
+Over the course of 16 matches (and I continue to collect data!), I logged the date of the sample and the usernames of the players in each game.
+
+Here's a sample of what the data looked like:
+
+
+A Simple Bayesian Capture-Recapture model
+-----
