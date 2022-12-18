@@ -53,26 +53,26 @@ Materials + Costs
 * Lenovo Ideapad U430p 
     * I had this laptop on hand already. I use it as the master node for my cluster.
     * 4gb RAM, 4 cores, 250GB hard drive
-    * Ubuntu 20.04
+    * Lubuntu 22.04
     
 * HP Compaq 8200 Elite SFF
     * $30, University of Utah
     * $18 refurbished 350gb WD hard drive, Newegg
     * 4gb RAM, 4 cores
-    * Ubuntu 20.04
+    * Lubuntu 22.04
     
 * HP Compaq 8300 Ultra SFF
     * $32, Ebay
     * Did not look carefully at the specs...needed an external power supply. $17 on Ebay.
     * $25, 128 GB Samsung EVO ssd, Newegg
     * 2gb RAM, 4 cores
-    * Ubuntu 20.04
+    * Lubuntu 22.04
     
 * HP Compaq 8000 Elite SFF
-    * \$42, Ebay (\$16 shipping)
+    * \$42, Ebay (16 was for shipping)
     * $25, 128 GB Samsung EVO ssd, Newegg
     * 8gb RAM, 4 cores
-    * Debian Jessie (working on it! Kept getting a kernel panic when I attempted to install Ubuntu)
+    * Lubuntu 22.04
  
 
 #### Networking
