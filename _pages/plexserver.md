@@ -16,6 +16,7 @@ This is a picture of my Plex Media Server setup:
 
 <img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/plex_overview.jpg" height="400" width="300">
 
+Also notice a cameo from my old router which is repurposed as an ethernet bridge for my desktops.
 
 I updated my motherboard, cpu, and RAM on my gaming computer in 2021, so I had a nice extra mobo and all the stuff on it. I had a spare PSU and the last thing I needed was a place to put it all.
 
@@ -41,7 +42,7 @@ OK, once that was done it was time to install Lubuntu (for a lightweight distro)
 
 Plex has a really nice web UI that you use to manage it, and I love locally hosted apps. It’s also nice, because I can manage it headless.
 
-<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/webui.png" height="400" width="300">
+<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/webui.png" height="300" width="400">
 
 I installed the app on my Roku on my TV and it works very well.
 
@@ -55,4 +56,4 @@ I think I got spooked when I first heard about Plex because people care a lot ab
 
 Here I am enjoying the fruits of my labors and watching A Most Wanted Man. The automatic subtitle feature of Plex is nifty!
 
-<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/movie.jpg" height="400" width="300">
+<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/movie.jpg" height="300" width="400">
