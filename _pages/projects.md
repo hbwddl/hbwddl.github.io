@@ -33,4 +33,8 @@ Keeping up with the early 2022 zeitgeist by making a wordle clone in R: [Github 
 
 [My Cluster](https://hbwddl.github.io/projects/cluster/)
 ------
-I've constructed a personal cluster using some old hardware. I'm able to run MPI and Spark on it. Now that it's all set up, I'm learning how to use Spark for Machine Learning workflows.
+I've constructed a personal Beowulf cluster using some old hardware. I'm able to run MPI and Spark on it. Now that it's all set up, I'm learning how to use Spark for Machine Learning workflows.
+
+[My Media Server](https://hbwddl.github.io/projects/plexserver/)
+------
+I set up a Plex media server so I could access my movies on my various devices. This page describes some of the process of setting it up.
