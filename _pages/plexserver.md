@@ -42,7 +42,7 @@ OK, once that was done it was time to install Lubuntu (for a lightweight distro)
 
 Plex has a really nice web UI that you use to manage it, and I love locally hosted apps. It’s also nice, because I can manage it headless.
 
-<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/webui.png" height="300" width="450">
+<img src="https://raw.githubusercontent.com/hbwddl/hbwddl.github.io/master/images/webui.png" height="250" width="450">
 
 I installed the app on my Roku on my TV and it works very well.
 
