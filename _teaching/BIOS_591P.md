@@ -13,3 +13,5 @@ I have been a TA for BIOS 591P since 2020. This is the second statistics course 
 ## Materials
 
 [R Self Study](https://github.com/hbwddl/hbwddl.github.io/blob/master/files/R-Resources.pdf): I distribute this document to students which gives a fairly robust listing of R resources for troubleshooting and self-teaching.
+
+[Github Repository](https://github.com/hbwddl/BIOS-591P-2022) of 2022 R Materials
