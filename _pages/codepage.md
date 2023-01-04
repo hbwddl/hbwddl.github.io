@@ -23,9 +23,9 @@ For some of my movement modeling work, I wanted a quick way to generate a 2d spa
 [Density Generator in RShiny](https://hbwaddel.shinyapps.io/GenerateDensity/) : 
 [Github Repository](https://github.com/hbwddl/spatial-density-generator/)
 
-BIOS 591P Spring 2022 R Materials
+BIOS 591P R Materials
 ------
-For my TA duties for BIOS 591P, I translate SAS analyses into R code for students who opt to learn R programming.
+For my TA duties for BIOS 591P (Biostatistical Methods II), I translate SAS analyses into R code for students who opt to learn R programming. These files were used in the Spring 2022 semester. More information can be found on my teaching page.
 
 [Github Repository](https://github.com/hbwddl/BIOS-591P-2022)
 
