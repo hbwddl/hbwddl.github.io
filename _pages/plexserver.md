@@ -20,7 +20,7 @@ Also notice a cameo from my old router which is repurposed as an ethernet bridge
 
 I updated my motherboard, CPU, and RAM on my gaming computer in 2021, so I had a nice extra mobo and all the stuff on it. I had a spare PSU and the last thing I needed was a place to put it all.
 
-So I got on facebook marketplace and bought a mid-tower ATX PC case for 20 bucks. Also grabbed a 1 TB WD Blue hard drive at Best Buy since it was on sale.
+So I got on Facebook marketplace and bought a mid-tower ATX PC case for 20 bucks. Also grabbed a 1 TB WD Blue hard drive at Best Buy since it was on sale.
 
 But! Problem! The case did not fit the ATX motherboard. It was a micro-ATX case. I won’t fault Sarah from Facebook for calling it ATX though, I think that’s something someone who’s not building a lot of computers might miss (names changed to protect the innocent).
 
