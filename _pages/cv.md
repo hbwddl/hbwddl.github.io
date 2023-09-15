@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://github.com/hbwddl/hbwddl.github.io/blob/db2f7b1cba57ef5dfb99703df2cc2c791b0b4d55/files/Waddel_CV_20221129.pdf)
+[PDF](https://github.com/hbwddl/hbwddl.github.io/blob/master/files/Waddel_CV_20230908.pdf)
 
 Education
 ------
@@ -17,12 +17,6 @@ Education
 * M.S. in Biostatistics; Emory University; Atlanta, GA; 2021
 * B.S. in Mathematics; University of Utah; Salt Lake City, UT; 2018
 
-Research
-------
-* Fred Adler Lab; University of Utah; August 2017-August 2018
-* Bruins in Genomics Summer Research Experience, Institute for Quantitative and Computational Biology; University of California, Los Angeles; June-August 2017
-* Arminda Suli Lab; Brigham Young University; August 2014-April 2016
- 
 Publications
 ------
 F Akbik, H Waddel, B Jaja, R Macdonald, R Moore, O Samuels, O Sadan. "Nicardipine Prolonged Release Implants For Prevention of Delayed Cerebral Ischemia After Aneurysmal Subarachnoid Hemorrhage: A meta-analysis" (Accepted, Journal of Stroke and Cerebrovascular Diseases, 2021)
@@ -31,6 +25,11 @@ O Sadan, H Waddel, R Moore, C Feng, Y Mei, D Pearce, J Kraft, C Pimentel, S Math
  
 B Nadel, D Lopez, D Montoya, H Waddel, M Khan, and M Pellegrini. “Gene Expression Deconvolution Interactive Tool (GEDIT): Accurate Cell Type Quantification from Gene Expression Data” (Published, GigaScience, 2021) [Full Text at NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7931818/)
 
+Research
+------
+* Fred Adler Lab; University of Utah; August 2017-August 2018
+* Bruins in Genomics Summer Research Experience, Institute for Quantitative and Computational Biology; University of California, Los Angeles; June-August 2017
+ 
 Research Grants
 ------
 * “The Community Ecology of the Music Canon”, 2018, Independent Research Experience Undergraduate Grant ($1,000), University of Utah Mathematics Department
@@ -45,34 +44,34 @@ Presentations
 * Poster, “Evaluating the Efficiency of Single-Cell Data in Cell-Type Deconvolution”, Bruins in Genomics Summer Research Experience, 2017
 * Poster, “Transcription Factor Interactions in Developing Hair Cells”, Utah Conference of Undergraduate Research, 2016
 
-
 Work experience
 ------
+* Biostatistics Intern; Sanofi Vaccines Division; Swiftwater, Pennsylvania; Summer 2023
 * Biostatistics Collaboration Core; Emory University; August 2019-Present
 * Actuarial Intern; Willis Towers Watson; Denver, Colorado; May-August 2016
   
 Teaching
 ------
+* Teaching Assistant, Statistical Practice I (BIOS 580); Fall 2022, Fall 2023
+* Co-Instructor, Introduction to Epidemiology and Biostatistics (HGC 707); Fall 2022
 * Instructor, Statistical Methods I Lab (BIOS 500L); Fall 2020
 * Teaching Assistant, Biostatistical Methods II (BIOS 591P); Spring 2020, Spring 2021, Spring 2022
 * Teaching Assistant, Statistical Methods I Lab (BIOS 500L); Fall 2019
 
 Service and leadership
 ------
+* Computer Museum of America archives volunteer, October 2021-Present
 * National Institute of Statistical Sciences (NISS) Graduate Student Network planning committee, June 2020-Present
 * Emory Biostatistics Department Student Council Representative, September 2019-Present
 * Georgia Department of Public Health COVID-19 Geospatial support, May-August 2020
-* Computer Museum of America archives volunteer, October 2021-Present
-
 
 Honors and Awards
 ------
+* Scholarship, Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID), 2022
 * Laney Graduate Fellowship, Emory University, 2018
 * Gibson Senior Award, University of Utah Department of Mathematics, 2018
 * Marriott Library Emeritus Librarian Scholarship, University of Utah, 2017
 * Pi Mu Epsilon Mathematics Honor Society, University of Utah, 2017
-* Phi Kappa Phi Honor Society, Brigham Young University, 2015
-* Heritage Scholarship, Brigham Young University, 2013
 
 Other
 ------
