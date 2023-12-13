@@ -28,7 +28,7 @@ B Nadel, D Lopez, D Montoya, H Waddel, M Khan, and M Pellegrini. “Gene Express
 Research
 ------
 * Fred Adler Lab; University of Utah; August 2017-August 2018
-* Bruins in Genomics Summer Research Experience, Institute for Quantitative and Computational Biology; University of California, Los Angeles; June-August 2017
+* Bruins in Genomics Summer Research Experience, Institute for Quantitative and Computational Biology; University of California, Los Angeles; June-August 2017. Project: "Evaluating the Efficiency of Single-Cell Data in Cell-Type Deconvolution”
  
 Research Grants
 ------
@@ -37,11 +37,12 @@ Research Grants
 * “Transcription Factor Interactions in Developing Hair Cells”, 2016, ORCA Undergraduate Student Mentoring Grant ($1,500), Brigham Young University Office of Research and Creative Activities
 * “Sensory Integration in Zebrafish Larvae”, 2015, ORCA Undergraduate Student Mentoring Grant ($1,500), Brigham Young University Office of Research and Creative Activities
 
-Presentations
+Conference Participation
 ------
+* Oral Presentation, "Scalable and robust mechanistic integration of epidemiological and genomic data
+for phylodynamic inference”, Epidemics9, 2023
 * Poster, “The Community Ecology of the Music Canon”, National Conference on Undergraduate Research, 2018
 * Poster, “The Community Ecology of the Music Canon”, Utah Conference of Undergraduate Research, 2018
-* Poster, “Evaluating the Efficiency of Single-Cell Data in Cell-Type Deconvolution”, Bruins in Genomics Summer Research Experience, 2017
 * Poster, “Transcription Factor Interactions in Developing Hair Cells”, Utah Conference of Undergraduate Research, 2016
 
 Work experience
@@ -60,7 +61,7 @@ Teaching
 
 Service and leadership
 ------
-* Computer Museum of America archives volunteer, October 2021-Present
+* Computer Museum of America, archives volunteer, October 2021-Present
 * National Institute of Statistical Sciences (NISS) Graduate Student Network planning committee, June 2020-Present
 * Emory Biostatistics Department Student Council Representative, September 2019-Present
 * Georgia Department of Public Health COVID-19 Geospatial support, May-August 2020
