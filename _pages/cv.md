@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://github.com/hbwddl/hbwddl.github.io/blob/master/files/Waddel_CV_20230908.pdf)
+[PDF](https://github.com/hbwddl/hbwddl.github.io/blob/master/files/Waddel_CV_20231213.pdf)
 
 Education
 ------
