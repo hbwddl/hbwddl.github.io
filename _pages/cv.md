@@ -11,8 +11,6 @@ redirect_from:
 
 [PDF](https://github.com/hbwddl/hbwddl.github.io/blob/master/files/Waddel_CV_20231213.pdf)
 
-<object data="files/Waddel_CV_20231213.pdf" width="1000" height="1000" type='application/pdf'/> 
-
 Relevant Coursework
 ------
 
