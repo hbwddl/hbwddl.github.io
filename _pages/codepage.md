@@ -31,4 +31,6 @@ For my TA duties for BIOS 591P (Biostatistical Methods II), I translate SAS anal
 
 Applied Spatial Statistics for Public Health Data
 ------
-Found on my [github](https://github.com/hbwddl/Bios-737-Applied-Spatial-2019). This repository contains my code for the course Bios 737, which I took in Fall 2019. The course primarily focused on spatial point processes.
+This repository contains my code for the course Bios 737, which I took in Fall 2019. The course primarily focused on spatial point processes.
+
+[Github Repository](https://github.com/hbwddl/Bios-737-Applied-Spatial-2019) 
