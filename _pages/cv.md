@@ -16,37 +16,20 @@ Relevant Coursework
 
 ### Graduate
 
-#### Fall 2021
-
 * Modern Regression Analysis
-
-#### Spring 2021
-
 * Statistical Inference II
 * Generalized Linear Models
 * Applied Bayesian Models
-
-#### Fall 2020
-
 * Probability Theory II
 * Advanced Linear Models
 * Survival Analysis
-
-#### Spring 2020
-
 * Statistical Inference I
 * Applied Linear Models
 * Observational Studies
-
-#### Fall 2019
-
 * Categorical Data Analysis
 * Spatial Analysis of Public Health Data
 * How to Teach Biostatistics
 * Case Studies in Infectious Disease Epidemiology
-
-#### Fall 2018
-
 * Probability Theory I
 * SAS Programming
 * Biostatistical Methods I
