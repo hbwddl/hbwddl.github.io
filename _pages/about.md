@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at Emory University. My dissertation research focuses on phylodynamic modeling which reconstructs infectious disease outbreaks while accounting for the full genetic diversity of the pathogen population present. I also have a particular interest in computational scalability, high-dimension data imputation via data-augmentation MCMC, and pathogen genomic data. My dissertation advisors are Max Lau and Lance Waller. I am interested in infectious disease and vaccine modeling, agent-based modeling, and statistical software + computation.
+I am a Postdoctoral Research Associate in the [Department of Infectious Diseases](https://vet.uga.edu/education/academic-departments/infectious-diseases/) at the University of Georgia. My research mentor is Justin Bahl, and I work within the [Center for Applied Pathogen Epidemiology (CAPE)](https://www.pgcoe-cape.org/). 
+
+I received my PhD in [biostatistics](https://www.sph.emory.edu/departments/bios/index.html) at Emory University. My dissertation research focused on infectious disease modeling which to reconstruct outbreaks using sampled pathogen genomic data, while accounting for the full genetic diversity of the pathogen population present and co-circulating disease variants. My dissertation involved solving problems in computational scalability, high-dimensional missing data imputation, MCMC, and pathogen mutation and evolution. My dissertation advisors were Max Lau and Lance Waller. 
 
 I regularly collaborate with researchers across the schools of medicine and public health, and I have 5+ years of experience as a collaborative biostatistician.
